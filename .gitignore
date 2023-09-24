@@ -1,0 +1,128 @@
+#Logs
+logs
+*.log
+
+#Runtime data
+pids
+*.pid
+*.seed
+
+#Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+#Visual Studio files
+*.[Oo]bj
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.tlog
+*.bak
+*.[Cc]ache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+*.opensdf
+*.opendb
+*.unsuccessfulbuild
+*.lastbuildstate
+*.swp
+.tmp
+ipch/
+[Oo]bj/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+[Oo]utput*/
+[Aa]rtifacts*/
+*.tlog/
+Ankh.NoLoad
+UpgradeLog.htm
+**/*.GeneratedMSBuildEditorConfig.editorconfig
+*.shh
+
+#MonoDevelop
+*.pidb
+*.userprefs
+
+#Tooling
+_ReSharper*/
+*.resharper
+[Tt]est[Rr]esult*
+*.sass-cache
+
+# Office Temp Files
+~$*
+
+# vim Temp Files
+*~
+
+#NuGet
+packages/
+*.nupkg
+nuget.exe
+symbolsContext.txt
+
+#Test files
+*.testsettings
+
+#Other files
+*.DotSettings.user
+.vs/
+.vscode/
+*project.lock.json
+*logging-bailout.txt
+JenkinsJobDetails.txt
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+# Build results
+[Dd]ebugPublic/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Ll]og/
+[Oo]utput/
+
+#Fiber
+FiberDiagrams/
+fiberapp/src/Win/winfbrapp/winfbrapp/Debug/
+fiberapp/src/Win/winfbrapp/winfbrapp/Release/
+fiberapp/src/Win/winfbrapp/winfbrapp/Debug\ GDI/
+fiberapp/src/Win/winfbrapp/winfbrapp/x64/
+WpfFiber/Debug\ GDI/
+
+
+
+
+
+
+/.axoCover
+/.axoCover
+/src/libraries/media-client/BlueJeansWinMediaClientFacade/Generated Files
+/src/libraries/media-client/MediaClientLogger/LoggerTester_Nugetpkg/LoggerTest.txt
+/src/libraries/media-client/MediaClientLogger/MediaClientLoggerTester/頂きます.txt
+/src/libraries/media-client/BlueJeansWinMediaClientFacade/Generated Files_backup
