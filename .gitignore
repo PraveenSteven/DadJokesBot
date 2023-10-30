@@ -107,22 +107,3 @@ bld/
 [Ll]og/
 [Oo]utput/
 
-#Fiber
-FiberDiagrams/
-fiberapp/src/Win/winfbrapp/winfbrapp/Debug/
-fiberapp/src/Win/winfbrapp/winfbrapp/Release/
-fiberapp/src/Win/winfbrapp/winfbrapp/Debug\ GDI/
-fiberapp/src/Win/winfbrapp/winfbrapp/x64/
-WpfFiber/Debug\ GDI/
-
-
-
-
-
-
-/.axoCover
-/.axoCover
-/src/libraries/media-client/BlueJeansWinMediaClientFacade/Generated Files
-/src/libraries/media-client/MediaClientLogger/LoggerTester_Nugetpkg/LoggerTest.txt
-/src/libraries/media-client/MediaClientLogger/MediaClientLoggerTester/頂きます.txt
-/src/libraries/media-client/BlueJeansWinMediaClientFacade/Generated Files_backup
